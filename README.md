@@ -243,7 +243,3 @@ RESTful API with comprehensive endpoints for:
    - Ensure file is PDF format
    - Check file size limits
    - Verify data directory permissions
-
-## License
-
-This project is licensed under the MIT License.
